@@ -1,5 +1,6 @@
 Hi there 👋
-Welcome to my GitHub profile! Here’s a little about me:
+Welcome to my GitHub profile!
+ Here’s a little about me:
 
 🔭 Current Projects:
 Building tools and solutions to make healthcare more accessible, efficient, and impactful.
@@ -18,7 +19,9 @@ Healthcare 3.0, ultra-endurance events, product management, and start-ups.
 
 📫 Reach Me At:
 [Email](mailto:@travcjohnson@gmail.com?subject=Hello!)
+
 [Linkedin](https://www.linkedin.com/in/travcjohnson/)
+
 [Instagram](https://www.instagram.com/traventurr)
 
 ⚡ Fun Fact:

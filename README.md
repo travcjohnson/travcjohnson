@@ -10,9 +10,6 @@ The intersection of healthcare, AI, and product management and how to bring the 
 👯 Let’s Collaborate:
 AI-driven healthtech integrations and multi-modal workflows.
 
-🤔 Looking for Help With:
-Advanced agentic workflows and scaling healthtech innovations.
-
 💬 Ask Me About:
 Healthcare 3.0, ultra-endurance events, product management, and start-ups.
 

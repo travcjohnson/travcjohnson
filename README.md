@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi there 👋
+Welcome to my GitHub profile! Here’s a little about me:
 
-<!--
-**travcjohnson/travcjohnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Current Projects:
+Building tools and solutions to make healthcare more accessible, efficient, and impactful.
 
-Here are some ideas to get you started:
+🌱 Currently Exploring:
+The intersection of healthcare, AI, and product management and how to bring the unequally distributed future into the present.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 Let’s Collaborate:
+AI-driven healthtech integrations and multi-modal workflows.
+
+🤔 Looking for Help With:
+Advanced agentic workflows and scaling healthtech innovations.
+
+💬 Ask Me About:
+Healthcare 3.0, ultra-endurance events, product management, and start-ups.
+
+📫 Reach Me At:
+[Email](mailto:@travcjohnson@gmail.com?subject=Hello!)
+[Linkedin](https://www.linkedin.com/in/travcjohnson/)
+[Instagram](https://www.instagram.com/traventurr)
+
+⚡ Fun Fact:
+I have one good eye and one bad eye but don’t wear glasses. If I did, I’d rock a monocle.

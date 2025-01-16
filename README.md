@@ -8,7 +8,7 @@ Building tools and solutions to make healthcare more accessible, efficient, and 
 The intersection of healthcare, AI, and product management and how to bring the unequally distributed future into the present.
 
 👯 Let’s Collaborate:
-AI-driven healthtech integrations and multi-modal workflows.
+AI-driven healthtech integrations and agentic applications.
 
 💬 Ask Me About:
 Healthcare 3.0, ultra-endurance events, product management, and start-ups.

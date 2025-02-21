@@ -2,7 +2,7 @@ Hi there 👋 Welcome to my GitHub profile!
 Here’s a little about me:
 
 🔭 Current Projects:
-Building tools and solutions to make healthcare more accessible, efficient, and impactful.
+Learning how to become a full stack product builder to enter the next digital age! 
 
 🌱 Currently Exploring:
 The intersection of healthcare, AI, and product management and how to bring the unequally distributed future into the present.
@@ -11,7 +11,7 @@ The intersection of healthcare, AI, and product management and how to bring the 
 AI-driven healthtech integrations and agentic applications.
 
 💬 Ask Me About:
-Healthcare 3.0, ultra-endurance events, product management, and start-ups.
+Healthcare 3.0, ultra-endurance events, product management, and start-ups, and my cats. 
 
 📫 Reach Me At:
 [Email](mailto:@travcjohnson@gmail.com?subject=Hello!)
